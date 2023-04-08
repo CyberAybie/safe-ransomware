@@ -15,7 +15,7 @@ A program that demonstrates the concept of ransomware by encrypting self-generat
 
 ### Installing
 
-* Just download the ransomware.cpp file from the repository
+* Just download the ransom.cpp file from the repository
 
 ### Executing program
 
