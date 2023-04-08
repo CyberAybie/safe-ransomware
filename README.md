@@ -1,4 +1,5 @@
-# Safe-Ransomware
+# Safe - Ransomware in C++
+ ![My Image](assets/ransom.jpeg)
 <br>
 by CyberAybie
 
@@ -25,11 +26,9 @@ A program that demonstrates the concept of ransomware by encrypting self-generat
 * open terminal
 
 ```
-g++ ransomware.cpp -o ransomware
-./ransomware
+g++ ransom.cpp -o ransom
+./ransom
 ```
-![My Image](assets/main.png)
-
 #### Executing
  * Type in a extension name for the files. (txt will work) 
  
